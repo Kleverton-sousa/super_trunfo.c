@@ -3,7 +3,7 @@
 int main(){
 
     //Aluno: Kleverton de Sousa Silva
-    // Desafio Super Trunfo
+    // Desafio Super Trunfo - iniciante
 
 
     //Carta 1
