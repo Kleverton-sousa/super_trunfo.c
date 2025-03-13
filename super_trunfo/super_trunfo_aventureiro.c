@@ -123,7 +123,7 @@ int main(){
     printf("PIB: %.2f\n", pib1);
     printf("Pontos Turisticos: %d\n", pontos_turisticos1);
     printf("Densidade populacional da Carta1: %.2f, \n", densidade_populacional_carta1);
-    printf("PIB per Capita da Carta1: %.2f, \n", pib_per_capita_carta1)
+    printf("PIB per Capita da Carta1: %.2f, \n", pib_per_capita_carta1);
 
 
     //Carta 2 
